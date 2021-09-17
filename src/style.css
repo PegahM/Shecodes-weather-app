@@ -2,6 +2,7 @@ body {
   color: rgb(135, 135, 135);
   font-family: Arial, sans-serif;
 }
+
 h1 {
   font-size: 24px;
   line-height: 28px;
@@ -41,4 +42,11 @@ li {
   width: 64px;
   height: 64px;
   margin-right: 10px;
+}
+.note {
+  position: relative;
+  left: 255px;
+  text-align: left;
+  color: black;
+  font-size: 14px;
 }
